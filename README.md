@@ -9,9 +9,11 @@ sdl2-image
 gcc
 (ffmpeg) for conversion scripts *(optional)
 
-encode - encodes a file into a video
-decode - decodes a file from a video
-convert.sh - bash script to convert png's in sequence to raw video format
-convert-h265.sh bash script to convert png's in sequence to h.265 (hevc)
-deconvert.sh - bash script to convert rawvideo back to png's
+<UL>
+	<LI>encode - encodes a file into a video</LI>
+<LI>decode - decodes a file from a video</LI>
+<LI>convert.sh - bash script to convert png's in sequence to raw video format</LI>
+<LI>convert-h265.sh bash script to convert png's in sequence to h.265 (hevc)</LI>
+<LI>deconvert.sh - bash script to convert rawvideo back to png's</LI>
+</UL>
 
