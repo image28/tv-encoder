@@ -9,6 +9,7 @@ Type '<I>make</I>' to build from a linux system.
 <LI>gcc</LI>
 <LI><I>(ffmpeg) for conversion scripts *(optional)</I></LI></UL>
 
+<B>Contents</B>
 <UL><LI>encode - encodes a file into a video</LI>
 <LI>decode - decodes a file from a video</LI>
 <LI>convert.sh - bash script to convert png's in sequence to raw video format</LI>
